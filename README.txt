@@ -1,0 +1,1 @@
+Binding a jqxgrid to a simple page using Vue.js proto
